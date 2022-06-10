@@ -1,1 +1,2 @@
 # odin-landing-page
+I am creating my first full webpage for Odin Project. I am looking to demonstrate my HTML and CSS skills - primarily what I have learned about Flexbox. I am very motivated going into this project - I struggled with Flexbox at first, but now feel I have a better grasp and am excited to build something from scratch!

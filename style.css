@@ -10,9 +10,9 @@ body {
 .three, 
 .four {
   display: flex;
-  flex: 1;
+  flex: auto;
   flex-direction: column;
-  padding: 16px 256px;
+  justify-items: center;
 }
 
 .one {
@@ -33,7 +33,7 @@ body {
   align-items: center;
   flex-flow: row wrap;
   flex: 1;
-  margin-top: 64px;
+  margin: 64px 0px;
 }
 
 .hero .text {
@@ -92,6 +92,7 @@ button {
 .two {
   background-color: white;
   align-items: center;
+  padding: 32px 0px;
 }
 
 .title {
@@ -128,5 +129,27 @@ button {
 }
 
 .three {
-  background-color: green;
+  background-color: #E5E7EB;
+  justify-content: center;
+  align-items: center;
+  flex: auto;
+  height: 500px;
+}
+
+.quote {
+  width: 800px;
+}
+
+.quote .text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1F2937;
+
+}
+
+.quote .author {
+  text-align: right;
+  font-size: 24px;
+  font-weight: bold;
 }

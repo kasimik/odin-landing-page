@@ -162,14 +162,9 @@ a {
   padding: 16px;
 }
 
-.modal .head {
+.modal .header {
   font-size: 24px;
   font-weight: bold;
-}
-
-.modal .text {
-  margin: 0;
-  padding: 0;
 }
 
 .action button {

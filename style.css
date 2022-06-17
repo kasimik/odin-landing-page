@@ -14,8 +14,8 @@ body {
 }
 
 .one {
-  background-color: #1F2937;
   height: 600px;
+  background-color: #1F2937;
 }
 
 .header {
@@ -79,18 +79,18 @@ a {
 .hero button {
   padding: 10px 20px;
   background: #3882F6;
-  border: 1px solid royalblue;
   color: white;
+  border: 1px solid royalblue;
   border-radius: 10px;
   margin-top: 16px;
   font-weight: bolder;
 }
 
 .two {
+  height: 500px;
   background-color: white;
   justify-content: space-evenly;
   align-items: center;
-  height: 500px;
 }
 
 .title {
@@ -109,9 +109,9 @@ a {
 }
 
 .object img {
-  border-radius: 10px;
   width: 200px;
   height: 200px;
+  border-radius: 10px;
 }
 
 .object .text {
@@ -121,10 +121,10 @@ a {
 }
 
 .three {
-  background-color: #E5E7EB;
+  height: 500px;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  background-color: #E5E7EB;
 }
 
 .quote {
@@ -167,18 +167,15 @@ a {
   font-weight: bold;
 }
 
-.modal .text {
-  margin: 0;
-  padding: 0;
-}
 
 .action button {
   background-color: #3882F6;
   color: #F9FAF8;
   border: 1px solid #F9FAF8;
+  border-radius: 10px;
+
   font-size: 18px;
   padding: 8px 24px;
-  border-radius: 10px;
 }
 
 .footer {
